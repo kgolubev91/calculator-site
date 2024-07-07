@@ -1,0 +1,58 @@
+{
+  "site": {
+    "title": "CalcHub",
+    "description": "Your one-stop calculator resource"
+  },
+  "nav": {
+    "financial": "Financial",
+    "mathematical": "Mathematical",
+    "household": "Household"
+  },
+  "pages": {
+    "home": {
+      "title": "Welcome to CalcHub",
+      "subtitle": "Choose a calculator to get started",
+      "popularCalculators": "Popular Calculators"
+    },
+    "financial": {
+      "title": "Financial Calculators"
+    },
+    "mathematical": {
+      "title": "Mathematical Calculators"
+    },
+    "household": {
+      "title": "Household Calculators"
+    }
+  },
+  "calculators": {
+    "loan": {
+      "title": "Loan Calculator",
+      "description": "Calculate loan payments and interest"
+    },
+    "tax": {
+      "title": "Tax Calculator",
+      "description": "Estimate your tax liability"
+    },
+    "savings": {
+      "title": "Savings Calculator",
+      "description": "Plan your financial future"
+    },
+    "currency": {
+      "title": "Currency Converter",
+      "description": "Convert between currencies"
+    },
+    "bmi": {
+      "title": "BMI Calculator",
+      "description": "Check your Body Mass Index"
+    },
+    "mortgage": {
+      "title": "Mortgage Calculator",
+      "description": "Estimate your mortgage payments"
+    }
+  },
+  "common": {
+    "calculate": "Calculate",
+    "reset": "Reset",
+    "result": "Result"
+  }
+}
